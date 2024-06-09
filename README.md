@@ -1,8 +1,16 @@
-**👋 Hi there! I’m a passionate web application developer.** Currently immersed in mastering the MERN stack. While my academic roots are in BBA, my true passion lies in coding and development. My expertise spans **JavaScript, React.js, Redux, Tailwind.css, HTML, CSS, Git, GitHub and foundational Express.js and REST APIs.**
+<p><b>👋 Hi there! I’m a passionate web application developer</b>. Currently immersed in mastering the MERN stack. My true passion lies in coding and development. My expertise spans</p>
 
-📚 Learning is a never-ending journey for me. I may have a bit of WordPress experience under my belt, but my passion lies in exploring the limitless possibilities of web development. I’m motivated to learn more about Typescript, OOP, DSA, backend technologies, and front-end technologies. I am also eager to expand my knowledge by learning a full-stack framework like Next.js.
+- JavaScript
+- React.js
+- Redux
+- Tailwind.css
+- HTML & CSS
+- Git & GitHub
+- Foundational Express.js and REST APIs.
 
-💬 Being a continuous learner and an avid explorer of the web development industry, I thrive on new challenges and opportunities to grow. I am always excited to connect with fellow professionals, share knowledge, and explore collaboration possibilities.
+<p>📚 Learning is a never-ending journey for me. I may have a bit of WordPress experience under my belt, but my passion lies in exploring the limitless possibilities of web development. I’m motivated to learn more about Typescript, OOP, DSA, backend technologies, and front-end technologies. I am also eager to expand my knowledge by learning a full-stack framework like Next.js.
+
+💬 Being a continuous learner and an avid explorer of the web development industry, I thrive on new challenges and opportunities to grow. I am always excited to connect with fellow professionals, share knowledge, and explore collaboration possibilities.</p>
 
 <h3 align="left">Languages and Tools I use:</h3>
 
