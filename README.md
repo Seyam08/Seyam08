@@ -35,11 +35,11 @@
 
 
 ![Seyam's
-Stats](https://github-readme-stats.vercel.app/api?username=Seyam08&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+Stats](https://github-readme-stats.vercel.app/api?username=Seyam08&theme=vue-dark&hide_icons=true&hide_border=true&border_radius=30&mode=weekly)
 
-![Seyam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Seyam08&theme=darcula&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Seyam08&theme=vue-dark&hide_border=true&border_radius=30&mode=weekly)](https://git.io/streak-stats)
 
-![Seyam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyam08&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![Seyam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyam08&theme=vue-dark&hide_icons=true&hide_border=true&border_radius=30&mode=weekly&layout=compact)
 
 
 <h3 align="left">Connect with me:</h3>
