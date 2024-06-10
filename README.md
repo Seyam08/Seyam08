@@ -3,7 +3,7 @@
 <h1><img src="https://slackmojis.com/emojis/38337-smile/download" width="30" height="30"/> Hi! Nice to see you.</h1>
 
 
-<p align="center"><b>I’m a passionate web application developer</b>. Currently immersed in mastering the MERN stack. My true passion lies in coding and development. My expertise spans</p>
+<h4 align="center"><b>I’m a passionate web application developer</b>. Currently immersed in mastering the MERN stack. My true passion lies in coding and development. My expertise spans are</h4>
 
 - JavaScript
 - React.js
