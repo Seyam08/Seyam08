@@ -6,6 +6,7 @@
 <h4 align="center"><b>I’m a passionate web application developer</b>. Currently immersed in mastering the MERN stack. My true passion lies in coding and development. My expertise spans are</h4>
 
 - JavaScript
+- TypeScript
 - React.js
 - Redux
 - Tailwind.css
