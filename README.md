@@ -14,7 +14,7 @@
 - Git & GitHub
 - Foundational Express.js and REST APIs.
 
-<p>📚 Learning is a never-ending journey for me. I may have a bit of WordPress experience under my belt, but my passion lies in exploring the limitless possibilities of web development. I’m motivated to learn more about Typescript, OOP, DSA, backend technologies, and front-end technologies. I am also eager to expand my knowledge by learning a full-stack framework like Next.js.
+<p>📚 Learning is a never-ending journey for me. I may have a bit of WordPress experience under my belt, but my passion lies in exploring the limitless possibilities of web development. I’m motivated to learn more about frontend, backend, and DevOps technologies. Looking forward to learning about SDLC and methodologies such as Agile to strengthen my knowledge of how software projects are planned and executed.
 
 💬 Being a continuous learner and an avid explorer of the web development industry, I thrive on new challenges and opportunities to grow. I am always excited to connect with fellow professionals, share knowledge, and explore collaboration possibilities.</p>
 
