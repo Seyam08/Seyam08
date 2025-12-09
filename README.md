@@ -39,7 +39,7 @@
 ![Seyam's
 Stats](https://github-readme-stats.vercel.app/api?username=Seyam08&theme=vue-dark&hide_icons=true&hide_border=true&border_radius=30&mode=weekly)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Seyam08&theme=vue-dark&hide_border=true&border_radius=30&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Seyam08&theme=vue&hide_border=true&border_radius=30)](https://git.io/streak-stats)
 
 ![Seyam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyam08&theme=vue-dark&hide_icons=true&hide_border=true&border_radius=30&mode=weekly&layout=compact)
 
