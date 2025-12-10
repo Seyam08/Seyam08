@@ -8,11 +8,14 @@
 - JavaScript
 - TypeScript
 - React.js
+- NextJS
 - Redux
 - Tailwind.css
 - HTML & CSS
 - Git & GitHub
-- Foundational Express.js and REST APIs.
+- Express.js
+- MongoDB
+- REST APIs.
 
 <p>📚 Learning is a never-ending journey for me. I may have a bit of WordPress experience under my belt, but my passion lies in exploring the limitless possibilities of web development. I’m motivated to learn more about frontend, backend, and DevOps technologies. Looking forward to learning about SDLC and methodologies such as Agile to strengthen my knowledge of how software projects are planned and executed.
 
