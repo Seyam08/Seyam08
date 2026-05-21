@@ -1,6 +1,6 @@
 ﻿<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Seyam%20Hossain&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=45&desc=%F0%9F%9A%80%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=65&descAlign=50&descSize=16&descColor=eee" width="100%"/>
 
-<div align="center">
+<div align="left">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Seyam!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%26+Next.js+Craftsman+%E2%9A%A1;Building+Cool+Stuff+with+Code+%F0%9F%94%A5;Let's+Build+Something+Amazing!+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
@@ -38,7 +38,7 @@ const seyam = {
 
 ## 🚀 Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### 🌐 Languages & Markup
 
@@ -83,7 +83,7 @@ const seyam = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Seyam08&theme=calm&hide_border=true&include_all_commits=true&count_private=true&border_radius=12&show_icons=true" height="185" alt="GitHub Stats"/>
 &nbsp;
@@ -94,10 +94,10 @@ const seyam = {
 <img src="https://streak-stats.demolab.com?user=Seyam08&theme=calm&hide_border=true&border_radius=12" alt="GitHub Streak" width="500"/>
 
 </div>
-
+a
 ## 💌 Connect With Me
 
-<div align="center">
+<div align="left">
 
 <a href="https://linkedin.com/in/seyamhossain" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="46" style="border-radius:8px" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://fb.com/seyam.hossain.8" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="46" style="border-radius:8px" alt="Facebook"/></a>&nbsp;&nbsp;
