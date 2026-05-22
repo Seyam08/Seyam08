@@ -94,7 +94,7 @@ const seyam = {
 <img src="https://streak-stats.demolab.com?user=Seyam08&theme=calm&hide_border=true&border_radius=12" alt="GitHub Streak" width="500"/>
 
 </div>
-a
+
 ## 💌 Connect With Me
 
 <div align="left">
