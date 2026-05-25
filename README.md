@@ -14,8 +14,6 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ```javascript
 const seyam = {
   name: "Seyam Hossain",
@@ -29,6 +27,8 @@ const seyam = {
   funFact: "I debug with console.log & I'm proud 😂",
 };
 ```
+
+
 
 <br/>
 
